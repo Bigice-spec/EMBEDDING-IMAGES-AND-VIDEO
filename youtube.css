@@ -123,9 +123,6 @@ img{
   margin-left: 2vw;
   width: 95%;
 }
-.detail i{
-  float: left;
-}
 .detail{
   padding-top: 1.5vh;
   display: flex;
