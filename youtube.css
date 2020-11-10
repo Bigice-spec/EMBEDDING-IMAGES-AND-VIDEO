@@ -128,7 +128,7 @@ img{
   padding-top: 1.5vh;
   display: flex;
   justify-content: space-between;
-  width: 60vw;
+  width: 56vw;
  
 }
 .line{
@@ -153,7 +153,7 @@ img{
     padding: 10px 16px;
     cursor: pointer;
     float: right;
-    margin-right: -40vw;
+    margin-right: -42vw;
 }
 .videoRow{
   display: flex;
