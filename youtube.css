@@ -34,18 +34,18 @@ img{
   flex-direction: column;
 }
 .playNext{
-  margin-top: 25px;
+  margin-top: 3.8vh;
 }
 .next{
   display: flex;
   flex-direction: row;
-  margin-top: 15px;
+  margin-top: 2.3vh;
 }
 .upnext input[type=text] {
-  padding: 10px;
+  padding: 1.5vh;
   border: 1px solid silver;
   width: 80%;
-  margin-left: 30px;
+  margin-left: 3vw;
   height: 1.875rem;
   text-align: center;
   font-size: smaller;
@@ -125,21 +125,21 @@ img{
   width: 100%;
 }
 .detail{
-  padding-top: 10px;
+  padding-top: 1.5vh;
   display: flex;
   justify-content: space-between;
   width: 60vw;
  
 }
 .line{
-  margin-top: 10px;
+  margin-top: 1.5vh;
   height: 1px;
   background-color: #e1e1e1;
 }
 .about{
-  margin-top: 25px;
-  margin-left: 25px;
-  width: 60%;
+  margin-top: 3.8vh;
+  margin-left: 2.5vw;
+  width: 60vw;
 }
 .row{
   display: flex;
@@ -153,7 +153,7 @@ img{
     padding: 10px 16px;
     cursor: pointer;
     float: right;
-    margin-right: -300%;
+    margin-right: -40vw;
 }
 .videoRow{
   display: flex;
@@ -168,14 +168,14 @@ img{
 .profInfo{
   display: flex;
   flex-direction: column;
-  margin-left: 15px;
+  margin-left: 1.5vw;
 }
 .info{
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-top: 25px;
-  margin-left: 55px;
+  margin-top: 3.8vh;
+  margin-left: 5.4vw;
 }
 .videos{
   width: 100%;
@@ -183,12 +183,12 @@ img{
   margin-top: 5px;
   flex-direction: column;
   align-items: flex-start;
-  margin-right: 30px;
+  margin-right: 3vw;
 }
 .theDetail{
   display: flex;
   flex-direction: column;
-  margin-left: 5px;
+  margin-left: 0.5vw;
   
 }
 .content{
@@ -204,7 +204,7 @@ img{
 }
 .theDetail h4 {
   font-size: 15px;
-  margin-bottom: 8px;
+  margin-bottom: 1.2vh;
   font-weight: 550;
 }
 .theDetail span{
@@ -214,16 +214,16 @@ img{
 .comments{
   display: flex;
   flex-direction: row;
-  margin-left: 25px;
-  margin-top: 15px;
+  margin-left: 2.5vw;
+  margin-top: 2.3vh;
 }
 .comments i{
-  margin-left: 25px;
+  margin-left: 2.5vw;
 }
 .commentImg{
   display: flex;
   flex-direction: row;
-  margin-top: 15px;
+  margin-top: 2.3vh;
 }
 .commentImg img{
   height: 5vh;
